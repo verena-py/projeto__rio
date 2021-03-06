@@ -1,0 +1,23 @@
+BACKLOG:
+
+DOCKER
+DJANGO
+ODM2
+POSTGREE SQL
+GITHUB
+FRONT END -
+DJANTO RESTFUL
+REACT
+
+Estudar o modelo de dados recomendado para observações em estações espacialmente discretas
+● Levantar dados de níveis de água observados em rios e reservatórios disponíveis no estado e os
+registrar junto aos metadados no banco de dados
+● Desenvolver ferramenta computacional para disponibilizar dados de nível de água em cada
+estação por bacia e período de interesse
+● Desenvolver ferramenta computacional para disponibilizar dados de vazões em cada estação por
+bacia e período de interesse
+● Caracterizar disponibilidade hídrica no estado para o período de análise definido quanto à vazão
+de referência para outorgas por bacia hidrográfica
+
+O QUE A FERRAMENTA PRETENDE FAZER?
+-
